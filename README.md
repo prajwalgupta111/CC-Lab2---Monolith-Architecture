@@ -1,5 +1,3 @@
-Here’s a **simple, student-style README.md** that fits your project, sounds human, and is **safe for submission**.
-You can copy-paste this directly into `README.md` on GitHub.
 # CC Lab 2 – Monolithic FastAPI Application
 
 ## Overview
@@ -122,4 +120,5 @@ The optimization involved removing these unnecessary loops so that each route on
 
 **PES1UG2XCS426**
 Cloud Computing Lab – CC Lab 2
+
 
